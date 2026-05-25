@@ -1,8 +1,8 @@
-# WFID: Wavelet-Fourier Identity-Decoupled Conditioning for Thermal-to-Visible Face Translation via Denoising Diffusion
+# WFID: Identity-and-Spectrum Driven Diffusion for Thermal-to-Visible Face Synthesis and Recognition Enhancement
 
 This is the official implementation of the paper:
 
-> **WFID: Wavelet-Fourier Identity-Decoupled Conditioning for Thermal-to-Visible Face Translation via Denoising Diffusion**
+> **WFID: Identity-and-Spectrum Driven Diffusion for Thermal-to-Visible Face Synthesis and Recognition Enhancement**
 >
 > Yunan Hu\*, Changmeng Peng\*, Xinyu Yang, Andong Deng, Lu Yang, Han Qin, Ruijie Xie, and Ye Lin†
 >
