@@ -33,17 +33,7 @@ Experiments are conducted on two publicly available T2V face datasets:
 - [TFW](https://github.com/Kuzdeuov/TFW) (Kuzdeuov et al., IEEE TIFS 2022)
 - [Tufts Face Database](http://tdface.ece.tufts.edu/) (Panetta et al., IEEE TPAMI 2020)
 
-## Citation
 
-```bibtex
-@article{hu2026wfid,
-  author  = {Hu, Yunan and Peng, Changmeng and Yang, Xinyu and Deng, Andong and Yang, Lu and Qin, Han and Xie, Ruijie and Lin, Ye},
-  title   = {{WFID}: Wavelet-Fourier Identity-Decoupled Conditioning for Thermal-to-Visible Face Translation via Denoising Diffusion},
-  journal = {IEEE Trans. Circuits Syst. Video Technol.},
-  year    = {2026},
-  note    = {submitted}
-}
-```
 
 ## Acknowledgements
 
